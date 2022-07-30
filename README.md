@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about Sails Js
 - 📫 Reach me through: mike12og@gmail.com
-- ⚡ `Talk is cheap, show me the code.`
+- ⚡ **_'Talk is cheap, show me the code.'_**
 
 ### 🏗️ frameworks i use mostly
 
