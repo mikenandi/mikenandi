@@ -21,13 +21,14 @@
 
 ### 💞 Favorites
 
-- Language: javascript.
-- Framework for Backend: Sails js
-- Framework for web: Next js
-- Framework for mobile apps: Expo js
-- Code editor: VS code
-- Package Manager: yarn
-- OS: Linux mint
+- `Language`: javascript.
+- `Framework for Backend`: Sails js
+- `Framework for web`: Next js
+- `Framework for mobile apps`: Expo js
+- `Framework for blockchain`: Expo js
+- `Code editor`: VS code
+- `Package Manager`: yarn
+- `OS`: Linux mint
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mikenandi&show_icons=true&theme=bear" width = 400>
