@@ -1,4 +1,4 @@
-### Hi there 🙋‍♂️, I am Michael Nandi from Tanzania.
+### Hi there 🙋‍♂️, I am Michael Nandi from 🇹🇿
 
 ---
 
