@@ -25,7 +25,7 @@
 - `Framework for Backend`: Sails js
 - `Framework for web`: Next js
 - `Framework for mobile apps`: Expo js
-- `Framework for blockchain`: Expo js
+- `Framework for blockchain`: hardhat
 - `Code editor`: VS code
 - `Package Manager`: yarn
 - `OS`: Linux mint
