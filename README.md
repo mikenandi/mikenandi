@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working at Sophia12 Inc.
+- 🔭 I’m currently working @ Sophia12 Inc.
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about Sails Js
 - 📫 Reach me through: mike12og@gmail.com
