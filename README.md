@@ -29,6 +29,7 @@
 - `Code editor`: VS code
 - `Package Manager`: yarn
 - `OS`: Linux mint
+- `On making api's`: postman
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mikenandi&show_icons=true&theme=bear" width = 400>
