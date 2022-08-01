@@ -1,7 +1,5 @@
 ### Hi there 🙋‍♂️, I am Michael Nandi
 
----
-
 - 🔭 I’m currently working @ Sophia12 Inc.
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about Sails Js
