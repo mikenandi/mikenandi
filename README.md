@@ -1,6 +1,5 @@
 ### Hi there 🙋‍♂️, I am Michael Nandi
 
-- 🔭 I’m currently working @ Sophia12 Inc.
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about Sails Js
 - 📫 Reach me through: mike12og@gmail.com
@@ -16,6 +15,8 @@
 - 👉 Expo js
 - 👉 Pytorch
 - 👉 Hardhat
+- 👉 Express Js and node js.
+- 👉 React js
 
 ### 💞 Favorites
 
@@ -28,6 +29,7 @@
 - `Package Manager`: yarn
 - `OS`: Linux mint
 - `On making api's`: postman
+- `DB`: postresql, mysql
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mikenandi&show_icons=true&theme=bear" width = 400>
