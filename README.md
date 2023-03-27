@@ -7,15 +7,11 @@
 
 ### 🏗️ frameworks i use mostly
 
-- 👉 Flask
 - 👉 Django
 - 👉 Sails js
 - 👉 Next js
-- 👉 React Native
 - 👉 Expo js
 - 👉 Pytorch
-- 👉 Hardhat
-- 👉 Express Js and node js.
 - 👉 React js
 
 ### 💞 Favorites
