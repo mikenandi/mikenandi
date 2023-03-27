@@ -1,9 +1,13 @@
-### Hi there 🙋‍♂️, I am Michael Nandi
+# Hi there 🙋‍♂️, I am Michael Nandi
 
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about Sails Js
-- 📫 Reach me through: mike12og@gmail.com
-- ⚡ _'Talk is cheap, show me the code.'_
+Here, you'll find a collection of my latest projects, experiments, and ideas. As a passionate developer, I'm always exploring new technologies and pushing the limits of what's possible. Whether I'm building an app from scratch or contributing to an open-source project, I'm constantly seeking new ways to challenge myself and expand my skill set.
+
+Take a look around and feel free to reach out if you have any questions or just want to connect. I'm always eager to collaborate with like-minded individuals and make new connections in the tech community.
+
+Thanks for stopping by, and happy coding!
+
+📫 Reach me through: **mike12og@gmail.com**
+
 
 ### 🏗️ frameworks i use mostly
 
@@ -18,14 +22,10 @@
 
 - `Language`: javascript.
 - `Framework for Backend`: Sails js
-- `Framework for web`: Next js
-- `Framework for mobile apps`: Expo js
-- `Framework for blockchain`: hardhat
 - `Code editor`: VS code
-- `Package Manager`: yarn
 - `OS`: Linux mint
 - `On making api's`: postman
-- `DB`: postresql, mysql
+- `DB`: postresql
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mikenandi&show_icons=true&theme=bear" width = 400>
