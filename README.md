@@ -3,13 +3,14 @@
 ### Am a tech enthusiast and creative developer passionate about building innovative solutions that push the boundaries of what's possible.
 
 
-📫 Reach me through: **mike12og@gmail.com**
+📫 Reach me through: **michaelnandi05@gmail.com**
 
 
 ### 🏗️ frameworks i use mostly
 
 - 👉 Django
 - 👉 Sails js
+- 👉 Nest js
 - 👉 Next js
 - 👉 Expo js
 - 👉 Pytorch
@@ -17,11 +18,11 @@
 
 ### 💞 Favorites
 
-- `Language`: javascript.
-- `Framework for Backend`: Sails js
+- `Language`: javascript/typescript.
+- `Framework for Backend`: Nest js
 - `Code editor`: VS code
 - `OS`: Linux mint
-- `On making api's`: postman
+- `On making api's`: pactumJs
 - `DB`: postresql
 
 <p align = "center">
