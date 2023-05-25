@@ -6,11 +6,11 @@
 📫 Reach me through: **michaelnandi05@gmail.com**
 
 
-### 🏗️ frameworks i use mostly
+### 🏗️ Preferred tech stacks
 
-- 👉 Django
-- 👉 Sails js
 - 👉 Nest js
+- 👉 Django
+- 👉 Laravel
 - 👉 Next js
 - 👉 Expo js
 - 👉 Pytorch
@@ -22,8 +22,7 @@
 - `Framework for Backend`: Nest js
 - `Code editor`: VS code
 - `OS`: Linux mint
-- `On making api's`: pactumJs
-- `DB`: postresql
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mikenandi&show_icons=true&theme=bear" width = 400>
