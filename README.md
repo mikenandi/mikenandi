@@ -1,4 +1,4 @@
-# Hi there 🙋‍♂️, I am Michael Nandi
+# Hi there, I am Michael Nandi
 
 ### Am a tech enthusiast and creative developer passionate about building innovative solutions that push the boundaries of what's possible.
 
