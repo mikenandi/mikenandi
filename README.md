@@ -15,6 +15,8 @@
 - 👉 Expo js
 - 👉 Pytorch
 - 👉 React js
+- 👉 Vue js
+  
 
 ### 💞 Favorites
 
