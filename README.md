@@ -1,30 +1,37 @@
-# Hi there, I am Michael Nandi
+# Hi there, I’m Michael Nandi 👋
 
-##### I’m a developer who loves Jesus Christ and is passionate about building innovative computer vision solutions that transform lives across Africa. My mission is to use technology not just to push boundaries, but to create meaningful impact in people’s daily lives.
+I’m a developer who loves **Jesus Christ** and is passionate about **computer vision solutions** that transform lives across Africa.  
+My mission? Use technology to **create meaningful impact**, not just push boundaries.  
 
+📫 **Reach me at:** [michaelnandi05@gmail.com](mailto:michaelnandi05@gmail.com)
 
-📫 Reach me through: **michaelnandi05@gmail.com**
+---
 
+## 🏗️ Playground: Tech I Love 🚀
 
-### 🏗️ My Playground: Favorite Tech Stacks 🚀
+Here’s what I play with the most:
 
-I love building **innovative solutions** that push boundaries and bring ideas to life. Here’s what I play with the most:
+- **⚡ NestJS** – Scalable, maintainable backends  
+- **🌐 Next.js** – Modern web apps with SSR/SSG  
+- **📱 Expo.js / React Native** – Mobile apps that just work  
+- **🧠 PyTorch** – Making machines see, understand, and learn  
+- **🎨 React.js** – Interactive and beautiful UIs  
 
-* **⚡ NestJS** – For building scalable, maintainable backends with clean architecture.
-* **🌐 Next.js** – For blazing-fast web apps and seamless SSR/SSG magic.
-* **📱 Expo.js** – Crafting mobile experiences that just work, without the hassle.
-* **🧠 PyTorch** – Making machines see, understand, and think (hello, computer vision!).
-* **🎨 React.js** – Bringing interactive, beautiful UIs to life.
+💡 **My favorite vibe:** Facebook-originated tools like **PyTorch** and **React Native** — that’s where innovators hang out and I get the **freedom to experiment and create**.  
 
-😂 **Fun Fact:** I’m the kind of developer who gets nervous when other devs are on **Windows**… nothing personal, I just like my terminal cozy and my builds drama-free. 💻✨
+😂 **Fun fact:** I get nervous when devs use **Windows**… nothing personal, I just like my **terminal cozy** and my builds **drama-free**. 💻✨  
 
-### 💞 Favorites
+---
 
-* **✝️ Jesus:** My ultimate guide and source of wisdom in life and work.
-* **💻 Language:** JavaScript/TypeScript & Python – my power combo for web, mobile, and AI magic.
-* **🖊️ Code Editor:** VS Code – my trusty coding sidekick.
-* **🖥️ OS:** macOS – sleek, fast, and terminal-ready (because Windows makes me nervous 😅).
-* **⚡ Favorite Tech:** Facebook-originated tools like **PyTorch** and **React Native** – I love them because that’s where the innovators hang out and they give me **freedom to experiment and be creative**.
+## 💞 Personal Faves
+
+- **✝️ Jesus** – My ultimate guide and inspiration  
+- **💻 Languages** – JavaScript/TypeScript & Python  
+- **🖊️ Editor** – VS Code, my trusty sidekick  
+- **🖥️ OS** – macOS, sleek, fast, terminal-ready  
+- **⚡ Tech Passion** – Tools that let me **innovate, experiment, and make an impact**
+
+---
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mikenandi&show_icons=true&theme=bear" width = 400>
