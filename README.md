@@ -1,6 +1,6 @@
 # Hi there, I am Michael Nandi
 
-### I’m a developer who loves Jesus Christ and is passionate about building innovative computer vision solutions that transform lives across Africa. My mission is to use technology not just to push boundaries, but to create meaningful impact in people’s daily lives.
+##### I’m a developer who loves Jesus Christ and is passionate about building innovative computer vision solutions that transform lives across Africa. My mission is to use technology not just to push boundaries, but to create meaningful impact in people’s daily lives.
 
 
 📫 Reach me through: **michaelnandi05@gmail.com**
