@@ -19,7 +19,6 @@ Here’s what I play with the most:
 - **🌐 Next.js** – Modern web apps with SSR/SSG  
 - **📱 Expo.js / React Native** – Mobile apps that just work  
 - **🧠 PyTorch** – Making machines see, understand, and learn  
-- **🎨 React.js** – Interactive and beautiful UIs  
 
 💡 **My favorite vibe:** Facebook-originated tools like **PyTorch** and **React Native** — that’s where innovators hang out and I get the **freedom to experiment and create**.  
 
