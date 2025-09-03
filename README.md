@@ -25,14 +25,6 @@ Here’s what I play with the most:
 
 😂 **Fun fact:** I get nervous when devs use **Windows**… nothing personal, I just like my **terminal cozy** and my builds **drama-free**. 💻✨  
 
-## 💞 Personal Faves
-
-- **✝️ Jesus** – My ultimate guide and inspiration  
-- **💻 Languages** – JavaScript/TypeScript & Python  
-- **🖊️ Editor** – VS Code, my trusty sidekick  
-- **🖥️ OS** – macOS, sleek, fast, terminal-ready  
-- **⚡ Tech Passion** – Tools that let me **innovate, experiment, and make an impact**
-
   ---
 
 
