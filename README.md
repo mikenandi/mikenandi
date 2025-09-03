@@ -6,15 +6,20 @@
 📫 Reach me through: **michaelnandi05@gmail.com**
 
 
-### 🏗️ Preferred tech stacks
+### 🏗️ My Playground: Favorite Tech Stacks 🚀
 
-- 👉 Nest js
-- 👉 Laravel
-- 👉 Next js
-- 👉 Expo js
-- 👉 Pytorch
-- 👉 React js
-  
+I love building **innovative solutions** that push boundaries and bring ideas to life. Here’s what I play with the most:
+
+* **⚡ NestJS** – For building scalable, maintainable backends with clean architecture.
+* **🌐 Next.js** – For blazing-fast web apps and seamless SSR/SSG magic.
+* **📱 Expo.js** – Crafting mobile experiences that just work, without the hassle.
+* **🧠 PyTorch** – Making machines see, understand, and think (hello, computer vision!).
+* **🎨 React.js** – Bringing interactive, beautiful UIs to life.
+
+🎉 Why I love it: I’m drawn to Facebook-originated tech like PyTorch and React Native because that’s where the innovators hang out—they give me the freedom to be creative, experiment wildly, and build the next big thing.
+
+If you want, I can also make a **more visually playful version** with icons, badges, and emojis for each tech stack that really pops on GitHub. Do you want me to do that?
+
 
 ### 💞 Favorites
 
