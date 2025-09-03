@@ -18,16 +18,13 @@ I love building **innovative solutions** that push boundaries and bring ideas to
 
 😂 **Fun Fact:** I’m the kind of developer who gets nervous when other devs are on **Windows**… nothing personal, I just like my terminal cozy and my builds drama-free. 💻✨
 
-If you want, I can also make a **more visually playful version** with icons, badges, and emojis for each tech stack that really pops on GitHub. Do you want me to do that?
-
-
 ### 💞 Favorites
 
-- `Language`: javascript/typescript.
-- `Framework for Backend`: Nest js
-- `Code editor`: VS code
-- `OS`: Linux mint
-
+* **✝️ Jesus:** My ultimate guide and source of wisdom in life and work.
+* **💻 Language:** JavaScript/TypeScript & Python – my power combo for web, mobile, and AI magic.
+* **🖊️ Code Editor:** VS Code – my trusty coding sidekick.
+* **🖥️ OS:** macOS – sleek, fast, and terminal-ready (because Windows makes me nervous 😅).
+* **⚡ Favorite Tech:** Facebook-originated tools like **PyTorch** and **React Native** – I love them because that’s where the innovators hang out and they give me **freedom to experiment and be creative**.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mikenandi&show_icons=true&theme=bear" width = 400>
