@@ -1,6 +1,6 @@
 # Hi there, I am Michael Nandi
 
-### Am a tech enthusiast and creative developer passionate about building innovative solutions that push the boundaries of what's possible.
+### I’m a developer who loves Jesus Christ and is passionate about building innovative computer vision solutions that transform lives across Africa. My mission is to use technology not just to push boundaries, but to create meaningful impact in people’s daily lives.
 
 
 📫 Reach me through: **michaelnandi05@gmail.com**
@@ -9,13 +9,11 @@
 ### 🏗️ Preferred tech stacks
 
 - 👉 Nest js
-- 👉 Django
 - 👉 Laravel
 - 👉 Next js
 - 👉 Expo js
 - 👉 Pytorch
 - 👉 React js
-- 👉 Vue js
   
 
 ### 💞 Favorites
