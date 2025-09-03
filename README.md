@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="mailto:michaelnandi05@gmail.com"><img src="https://img.shields.io/badge/Email-michaelnandi05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mikenandi"><img src="https://img.shields.io/badge/LinkedIn-Michael%20Nandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/mikenandi"><img src="https://img.shields.io/badge/Twitter-@mikenandi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
