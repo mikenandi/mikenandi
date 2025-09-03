@@ -16,7 +16,7 @@ I love building **innovative solutions** that push boundaries and bring ideas to
 * **🧠 PyTorch** – Making machines see, understand, and think (hello, computer vision!).
 * **🎨 React.js** – Bringing interactive, beautiful UIs to life.
 
-** 😂 Fun Fact: I’m the kind of developer who gets nervous when other devs are on Windows… nothing personal, I just like my terminal cozy and my builds drama-free. 💻✨
+😂 **Fun Fact:** I’m the kind of developer who gets nervous when other devs are on **Windows**… nothing personal, I just like my terminal cozy and my builds drama-free. 💻✨
 
 If you want, I can also make a **more visually playful version** with icons, badges, and emojis for each tech stack that really pops on GitHub. Do you want me to do that?
 
