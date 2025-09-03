@@ -20,8 +20,6 @@ Here’s what I play with the most:
 - **📱 Expo.js / React Native** – Mobile apps that just work  
 - **🧠 PyTorch** – Making machines see, understand, and learn  
 
-💡 **My favorite vibe:** Facebook-originated tools like **PyTorch** and **React Native** — that’s where innovators hang out and I get the **freedom to experiment and create**.  
-
 😂 **Fun fact:** I get nervous when devs use **Windows**… nothing personal, I just like my **terminal cozy** and my builds **drama-free**. 💻✨  
 
   ---
