@@ -15,7 +15,6 @@ My mission? Use technology to **create meaningful impact**, not just push bounda
 Here’s what I play with the most:
 
 - **⚡ NestJS** – Scalable, maintainable backends  
-- **🌐 Next.js** – Modern web apps with SSR/SSG  
 - **📱 Expo.js / React Native** – Mobile apps that just work  
 - **🧠 TensorFlow** – Making machines see, understand, and learn  
 
