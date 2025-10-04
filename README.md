@@ -17,7 +17,7 @@ Here’s what I play with the most:
 - **⚡ NestJS** – Scalable, maintainable backends  
 - **🌐 Next.js** – Modern web apps with SSR/SSG  
 - **📱 Expo.js / React Native** – Mobile apps that just work  
-- **🧠 PyTorch** – Making machines see, understand, and learn  
+- **🧠 TensorFlow** – Making machines see, understand, and learn  
 
 😂 **Fun fact:** I get nervous when devs use **Windows**… nothing personal, I just like my **terminal cozy** and my builds **drama-free**. 💻✨  
 
